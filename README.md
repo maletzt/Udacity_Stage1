@@ -1,4 +1,4 @@
-![Udacity Image](https://www.google.com/imgres?imgurl=http%3A%2F%2F1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com%2Fwp-content%2Fthemes%2Fudacity_wp_1_8%2Fimages%2FUdacity_Logo_SVG_200x35.svg&imgrefurl=http%3A%2F%2Fblog.udacity.com%2F2015%2F08%2Fmatt-holloway-executive-at-nook-why-im-taking-the-udacity-nanodegree.html&docid=Wmyxm-oa6ODoDM&tbnid=uSr-qPB9BJKybM%3A&w=800&h=140&bih=1240&biw=1822&ved=0ahUKEwjIhIDEhs_PAhWFez4KHajZBmoQMwgrKA0wDQ&iact=mrc&uact=8)
+[Udacity Image](https://www.google.com/imgres?imgurl=http%3A%2F%2F1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com%2Fwp-content%2Fthemes%2Fudacity_wp_1_8%2Fimages%2FUdacity_Logo_SVG_200x35.svg&imgrefurl=http%3A%2F%2Fblog.udacity.com%2F2015%2F08%2Fmatt-holloway-executive-at-nook-why-im-taking-the-udacity-nanodegree.html&docid=Wmyxm-oa6ODoDM&tbnid=uSr-qPB9BJKybM%3A&w=800&h=140&bih=1240&biw=1822&ved=0ahUKEwjIhIDEhs_PAhWFez4KHajZBmoQMwgrKA0wDQ&iact=mrc&uact=8)
 
 # Make A Webpage - Stage 1
 
